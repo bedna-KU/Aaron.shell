@@ -1,2 +1,2 @@
 # Aaron.shell
-API client to KERNEL ULTRAS from terminal
+API client for KERNEL ULTRAS from terminal
